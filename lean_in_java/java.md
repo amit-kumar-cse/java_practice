@@ -18,8 +18,20 @@
 		○ Filters.
 	• Regular expressions.
 -------
-	• **Spring**
-  • Spring core
+	• Spring core
 	• Spring data
 		○ Spring jdbc
 	• Spring MVC
+----
+	• Deploying java applications.
+	• Gradle.
+	• Logging.
+	
+----
+	• Eclipse
+	• Junit
+-----	
+	• OO design in java.
+	• Design patterns in java.
+
+
